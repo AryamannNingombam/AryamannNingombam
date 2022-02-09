@@ -36,7 +36,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryamannNingombam&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-# Thanks,
+# Some Projects
 
 <a href="https://github.com/AryamannNingombam/RevaHack">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AryamannNingombam&repo=RevaHack&theme=chartreuse-dark" />
