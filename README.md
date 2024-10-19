@@ -1,8 +1,8 @@
-# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aryamann.
+# I'm Aryamann.
 
-## **Welcome to my Github Profile 👀**
+## **Welcome to (my unupdated) my Github Profile. Take it easy**
 
-## **About me📕**
+## **About me**
 
 ### I am a full-stack developer, tech enthusiast, athlete, and an avid reader. I am currently pursuing my Bachelor's(CSE) from Manipal Institute Of Technology, and have changed more than 10 schools in my life owing to my father's army career. I have worked under multiple starups, and am also an ex-cofounder of [Krypto Cards](https://kryptocards.tech).
 
@@ -14,8 +14,7 @@
 
 ### I am also the founder, Chapter Lead of [Work@Tech Manipal Chapter](https://www.linkedin.com/company/manipal-university-workat-tech-student-chapter/) and co-founder, Executive Lead at [Manipal Open Source Society](https://www.linkedin.com/company/manipal-open-source-society/), which are student-run clubs in my college.
 
-### You can contact me regarding any idea or product that you wanna build, I am always available for things like that . I am also according to some people, the biggest trash talker out there so you can always come up for a challenge if you feel to :).
-
+### You can contact me regarding any idea or product that you wanna build, I am always available for things like that.
 ---
 
 ## **Links🔗**
